@@ -1,4 +1,4 @@
-me
-==
+### Code Examples
 
-A personal resume with information and code samples about me
+The goal of this site is to give you a better understanding of who I am and my current skillset. 
+
