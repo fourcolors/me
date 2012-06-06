@@ -24,3 +24,9 @@ The following is a personal ranking of my abilities between 1 - 5.
 * Capybara: ***** (5)
 * Agile Development Process: ***** (5)
 * Eye For Design: ***** (5) (At least I think so)
+
+## Recent Projects
+* www.memorysun.com -> This is a personal pet project of mine.
+* www.jobcept.com -> The javascript here isn't pretty but I did this site before I knew good js
+* http://tmblr.co/Zq-A5wMMXbPM -> This is the tagging system for www.apptrajectory.com It's 100% tested in jasmine, cucumber and Backbone.js
+
