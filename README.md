@@ -48,6 +48,6 @@ Most specifically:
 * http://samplaid.com/samples/11 -> Rspec with factory girl
 
 **Backbone.js**
-http://samplaid.com/samples/12 -> Implemented tags on www.apptrajectory.com Used a jQuery plugin and backbone support with the leave method to prevent memory leaks.
-http://samplaid.com/samples/13 -> Jasmine test for Backbone.js application (test for the tags seen above)
+* http://samplaid.com/samples/12 -> Implemented tags on www.apptrajectory.com Used a jQuery plugin and backbone support with the leave method to prevent memory leaks.
+* http://samplaid.com/samples/13 -> Jasmine test for Backbone.js application (test for the tags seen above)
 
