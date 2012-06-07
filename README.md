@@ -51,3 +51,8 @@ Most specifically:
 * http://samplaid.com/samples/12 -> Implemented tags on www.apptrajectory.com Used a jQuery plugin and backbone support with the leave method to prevent memory leaks.
 * http://samplaid.com/samples/13 -> Jasmine test for Backbone.js application (test for the tags seen above)
 
+**Design Patterns**
+Null Object example comming soon!
+
+**Design(ya like the art stuff)**
+* https://www.dropbox.com/s/2h4bb7dzu9yrigm/memorysun1.jpg -> Thank you to Bret Alimari who customized this font and has inspired me to create better designs. He's the best designer I know. http://bretsaid.com/
