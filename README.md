@@ -4,14 +4,15 @@ My name is Sterling cobb and I'm a Software Engineer. I've been coding since I w
 
 Currently I'm working for thoughbot (www.thoughtbot.com) in their apprentice.io program and having a blast.
 
+## My Profession (*After all, thats most likely why you are here*)
+
 **Relevant work history (Ruby on Rails/Agile Stuff)**
 
 * 1.5 years freelancing/working on my own projects
 * 2 years working for www.byways.org (buidling their mobile and CMS)
 * Currently at thoughbot.
 
-## My Profession (*After all, thats most likely why you are here*)
-The following is a personal ranking of my abilities between 1 - 5. 
+**The following is a personal ranking of my abilities between 1 - 5.**
 
 * Ruby: **** (4)
 * Ruby on Rails: ***** (5)
