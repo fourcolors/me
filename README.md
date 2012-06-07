@@ -39,7 +39,7 @@ The following is a personal ranking of my abilities between 1 - 5.
 * www.samplaid.com -> This is a super easy to use code sample sharing website.
 * http://tmblr.co/Zq-A5wMMXbPM -> This is the tagging system for www.apptrajectory.com It's 100% tested in jasmine, cucumber and Backbone.js
 
-### Sample Code
+## Sample Code
 Since I wrote a code sample site, I figured I would use that to link to my code samples (yes I know gist exists)
 
 Here are all of my code samples: 
