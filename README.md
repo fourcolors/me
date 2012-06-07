@@ -30,3 +30,7 @@ The following is a personal ranking of my abilities between 1 - 5.
 * www.jobcept.com -> The javascript here isn't pretty but I did this site before I knew good js
 * http://tmblr.co/Zq-A5wMMXbPM -> This is the tagging system for www.apptrajectory.com It's 100% tested in jasmine, cucumber and Backbone.js
 
+### Sample Code
+Cucumber/Capybara Examples
+This is for a memory storing application I'm creating. This is an example of cleaning up my step definitions by hiding implementation into world.
+
