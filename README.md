@@ -59,7 +59,7 @@ Most specifically:
 * http://samplaid.com/samples/13 -> Jasmine test for Backbone.js application (test for the tags seen above)
 
 **Design Patterns**
-Null Object example comming soon!
+* http://samplaid.com/samples/14 -> Example of a Guest NullObject
 
 **Custom Iterator**
 * https://github.com/fourcolors/pick_groups -> Uses ruby's yield to create a custom iterator for grouping arrays.
