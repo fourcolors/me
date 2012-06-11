@@ -61,5 +61,8 @@ Most specifically:
 **Design Patterns**
 Null Object example comming soon!
 
+**Custom Iterator**
+* https://github.com/fourcolors/pick_groups -> Uses ruby's yield to create a custom iterator for grouping arrays.
+
 **Design(ya like the art stuff)**
 * https://www.dropbox.com/s/2h4bb7dzu9yrigm/memorysun1.jpg -> Thank you to Bret Alimari who customized this font and has inspired me to create better designs. He's the best designer I know. http://bretsaid.com/
