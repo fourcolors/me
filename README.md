@@ -15,14 +15,14 @@ Currently I'm working for instructure building Canvas, a piece of software that 
 **The following is a personal ranking of my abilities between 1 - 5.**
 
 * Ruby: **** (4)
-* Ruby on Rails: ***** (5)
+* Ruby on Rails: ***** (4)
 * Design Patterns: ** (2)
 * RESTful API's: **** (4)
 * Postgres: *** (3)
 * PostGIS: ** (2)
-* Javascript: ***** (5)
-* Coffeescript: ***** (5)
-* Backbone: ** (2)
+* Javascript: ***** (4)
+* Coffeescript: ***** (4)
+* Backbone: **** (4)
 * Rspec: **** (4)
 * Cucumber: ***** (5)
 * Jasmine: ** (2)
@@ -30,7 +30,7 @@ Currently I'm working for instructure building Canvas, a piece of software that 
 * HTML5/CSS3/SCSS: **** (4)
 * Tmux: ** (2)
 * VIM: **** (4)
-* Capybara: ***** (5)
+* Capybara: ***** (4)
 * Agile Development Process: ***** (5)
 * Eye For Design: ***** (5) (At least I think so)
 
